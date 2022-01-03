@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Movies.xsl"?>
+    <LIBRARY>
+        <MOVIE>
+            <NUMBER>1</NUMBER>
+            <TITLE>Варкрафт</TITLE>
+            <AUTHOR>Дункан Джонс</AUTHOR>
+            <MINUTES>123</MINUTES>
+            <YEAR>2016</YEAR>
+        </MOVIE>
+        <MOVIE>
+            <NUMBER>2</NUMBER>
+            <TITLE>Ван Хельсинг</TITLE>
+            <AUTHOR>Стивен Соммерс</AUTHOR>
+            <MINUTES>145</MINUTES>
+            <YEAR>2004</YEAR>
+        </MOVIE>
+        <MOVIE>
+            <NUMBER>3</NUMBER>
+            <TITLE>Дэдпул</TITLE>
+            <AUTHOR>Тим Миллер</AUTHOR>
+            <MINUTES>109</MINUTES>
+            <YEAR>2016</YEAR>
+        </MOVIE>
+        <MOVIE>
+            <NUMBER>4</NUMBER>
+            <TITLE>Шрек Третий</TITLE>
+            <AUTHOR>Крис Миллер</AUTHOR>
+            <MINUTES>113</MINUTES>
+            <YEAR>2007</YEAR>
+        </MOVIE>
+        <MOVIE>
+            <NUMBER>5</NUMBER>
+            <TITLE>Монстры против пришельцев</TITLE>
+			<AUTHOR>Конрад Вернон</AUTHOR>
+            <MINUTES>102</MINUTES>
+            <YEAR>2009</YEAR>
+        </MOVIE>
+    </LIBRARY>
